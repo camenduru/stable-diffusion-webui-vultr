@@ -12,3 +12,9 @@ jupyter-lab --ip 0.0.0.0 --port 8888 --no-browser --allow-root --NotebookApp.tok
 
 http://ip:8888
 ```
+
+### Jupyter Lab Terminal
+
+```sh
+apt-get update -y && apt-get upgrade -y && apt-get install -y libgl1 libglib2.0-0 wget git git-lfs python3-pip python-is-python3
+```
