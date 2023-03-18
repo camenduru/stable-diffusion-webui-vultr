@@ -14,3 +14,5 @@ restart kernel
 
 change python to python3
 ```
+
+https://github.com/camenduru/stable-diffusion-webui-colab
