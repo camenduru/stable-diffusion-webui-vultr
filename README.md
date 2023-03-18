@@ -1,6 +1,6 @@
 ### Vultr
 ```py
-iptables -P INPUT ACCEPT && iptables -P FORWARD ACCEPT && iptables -P OUTPUT ACCEPT && pip install jupyterlab && tmux
+apt install python-is-python3 && iptables -P INPUT ACCEPT && iptables -P FORWARD ACCEPT && iptables -P OUTPUT ACCEPT && pip install jupyterlab && tmux
 ```
 
 ```py
