@@ -14,7 +14,3 @@ mkdir /content && jupyter-lab --ip 0.0.0.0 --port 8888 --no-browser --allow-root
 ```
 
 copy & paste any colab from https://github.com/camenduru/stable-diffusion-webui-colab
-
-restart kernel
-
-change python to python3
