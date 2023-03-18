@@ -1,3 +1,6 @@
+### Tutorial
+https://www.youtube.com/watch?v=Fgc3ZHBephk
+
 ### Vultr Console
 ```py
 apt install python-is-python3 && iptables -P INPUT ACCEPT && iptables -P FORWARD ACCEPT && iptables -P OUTPUT ACCEPT && pip install jupyterlab && tmux
@@ -14,3 +17,6 @@ mkdir /content && jupyter-lab --ip 0.0.0.0 --port 8888 --no-browser --allow-root
 ```
 
 copy & paste any colab from https://github.com/camenduru/stable-diffusion-webui-colab
+
+Jupyter Lab URL: `your_ip_address:8888`
+Public WebUI Colab URL: `your_ip_address:7860`
