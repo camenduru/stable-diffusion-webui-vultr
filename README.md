@@ -1,7 +1,7 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
-### Tutorial
+### Tutorial Video
 https://www.youtube.com/watch?v=Fgc3ZHBephk
 
 ### Vultr Console
