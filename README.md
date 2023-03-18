@@ -18,5 +18,5 @@ mkdir /content && jupyter-lab --ip 0.0.0.0 --port 8888 --no-browser --allow-root
 
 copy & paste any colab from https://github.com/camenduru/stable-diffusion-webui-colab
 
-Jupyter Lab URL: `your_ip_address:8888`
-Public WebUI Colab URL: `your_ip_address:7860`
+Jupyter Lab URL: `your_vultr_vm_ip_address:8888`
+Public WebUI Colab URL: `your_vultr_vm_ip_address:7860`
