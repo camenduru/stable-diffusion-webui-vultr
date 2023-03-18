@@ -1,4 +1,4 @@
-### Vultr
+### Vultr Console
 ```py
 apt install python-is-python3 && iptables -P INPUT ACCEPT && iptables -P FORWARD ACCEPT && iptables -P OUTPUT ACCEPT && pip install jupyterlab && tmux
 ```
